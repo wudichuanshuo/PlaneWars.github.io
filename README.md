@@ -2,6 +2,8 @@
 This is a Web 2D game PlaneWars developed by WhiteElephant group.
 Welcome to play.
 We will be very happy if you can give us a litte star!
+# Play URL
+https://wudichuanshuo.github.io/PlaneWars.github.io/
 
 # Play Style
 #### Move Style
